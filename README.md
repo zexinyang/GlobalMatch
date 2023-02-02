@@ -4,7 +4,7 @@ This repository implements the method described in the following [paper](https:/
 ```
 Xufei Wang, Zexin Yang, Xiaojun Cheng, Jantien Stoter, Wenbing Xu, Zhenlun Wu, and Liangliang Nan. 
 GlobalMatch: Registration of forest terrestrial point clouds by global matching of relative stem positions.
-ISPRS Journal of Photogrammetry and Remote Sensing. 197, 71-86, 2023.
+ISPRS Journal of Photogrammetry and Remote Sensing. Vol. 197, 71-86, 2023.
 ```
 
 ### Dataset and source code coming soon...
