@@ -87,7 +87,7 @@ below:
 | Tongji-Trees |                                   [Download link](https://forms.gle/c8BXMHYTqd1iULBv8)                                    |                                  [Download link](https://wj.qq.com/s2/11690595/201c/)                                   | approx. 10GB |
 
 **Disclaimer**:
-The estimated matrices you obtain may differ slightly from our provided ones, because our stem mapping algorithm is stochastic.
+The estimated matrices you obtain may differ slightly from our provided ones due to the stochastic nature of our stem mapping algorithm.
 
 ## Citation
 We kindly ask you to cite our paper if you use (part of) the code, ideas, or dataset in your academic work:
