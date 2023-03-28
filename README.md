@@ -21,7 +21,7 @@ Please install [PCL](https://pointclouds.org/downloads/#cross-platform) (and its
 
 To build GlobalMatch, you need [CMake](https://cmake.org/download/) (`>= 3.12`) and a compiler that
 supports `>= C++14`.
-With CMake, GlobalMatch can be built on almost all platform, 
+With CMake, GlobalMatch can be built on almost all platforms, 
 although so far we have only tested it on Linux (GCC >= 4.8, Clang >= 3.3).
 
 There are many options to build GlobalMatch. Choose one of the following (not an exhaustive list):
@@ -63,7 +63,7 @@ Don't have any experience with C/C++ programming?
 Have a look at <a href="https://github.com/LiangliangNan/Easy3D/blob/main/HowToBuild.md">Liangliang's step-by-step
 tutorial</a>.
 
-## Usages
+## Usage
 
 We have split GlobalMatch into two classes - [Mapping](./code/global_match/stem_mapping.h) 
 and [Matching](./code/global_match/stem_matching.h) - to make it easier to use. 
@@ -110,4 +110,4 @@ Please feel free to contact me at [zexinyang@tongji.edu.cn](zexinyang@tongji.edu
 
 **_Zexin Yang_**
 
-March 27, 2023
+December 21, 2021
