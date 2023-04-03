@@ -6,10 +6,7 @@ project(GlobalMatch)
 set(CMAKE_CXX_STANDARD 14)
 
 # Find packages
-find_package(VTK REQUIRED COMPONENTS
-        CommonCore CommonDataModel
-        CONFIG
-        )
+find_package(VTK REQUIRED NO_MODULE)
 
 find_package(PCL REQUIRED COMPONENTS
         common io features filters segmentation
