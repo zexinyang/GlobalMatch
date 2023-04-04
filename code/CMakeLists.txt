@@ -37,17 +37,12 @@ set(PROJECT_SOURCES
 add_executable(GlobalMatch ${PROJECT_SOURCES})
 
 # Add include directories to target
-target_include_directories(GlobalMatch PRIVATE
+target_include_directories(GlobalMatch PUBLIC
         ${PCL_INCLUDE_DIRS} # PCL include directories
         3rd_party/cc
         3rd_party/csf
         3rd_party/octree
         3rd_party/voxel_grid
-        )
-
-# Add definitions to target
-target_compile_definitions(GlobalMatch PRIVATE
-        ${PCL_DEFINITIONS} # PCL definitions
         )
 
 # Link libraries to target
