@@ -5,7 +5,8 @@
 <p/>
 
 This is the official implementation of the method described in the
-following [paper](https://www.sciencedirect.com/science/article/pii/S0924271623000199):
+following paper (see [the published version on ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271623000199) 
+or [our preprint on arXiv](https://arxiv.org/abs/2112.11121)):
 
 ```
 Xufei Wang, Zexin Yang, Xiaojun Cheng, Jantien Stoter, Wenbing Xu, Zhenlun Wu, and Liangliang Nan. 
