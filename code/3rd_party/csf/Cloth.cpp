@@ -102,9 +102,7 @@ double Cloth::timeStep() {
     for (int i = 0; i < particleCount; i++) {
         particles_[i].timeStep();
     }
-#if defined(_OPENMP)
-#pragma omp parallel for
-#endif
+
     for (int j = 0; j < particleCount; j++) {
         particles_[j].satisfyConstraintSelf(constraint_iterations_);
     }
