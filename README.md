@@ -107,7 +107,7 @@ We kindly ask you to cite our paper if you use (part of) the code, ideas, or dat
 
 ---------
 
-Please feel free to contact me at [zexinyang@tongji.edu.cn](zexinyang@tongji.edu.cn) with questions, comments, or suggestions ;-)
+Please feel free to contact me at [zexinyang@tongji.edu.cn](zexinyang@gzpi.com.cn) with questions, comments, or suggestions ;-)
 
 **_Zexin Yang_**
 
